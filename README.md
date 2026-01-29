@@ -1,2 +1,16 @@
-# Safety-alert-system-for-women
-Safety Alert System for Women using Sound Anomaly Detection is a smart system that continuously monitors surrounding sounds to identify distress signals like screams or sudden loud noises. On detecting anomalies, it automatically sends SOS alerts with live location to trusted contacts and authorities for quick assistance
+# Women Safety App
+
+A Flutter app for women safety alert system.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
